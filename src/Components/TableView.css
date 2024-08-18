@@ -1,0 +1,16 @@
+/* TableView */
+.custom-table .ant-table-thead > tr > th {
+    border: 1px solid #ddd; /* Border for table headers */
+    background-color: #f0f2f5;
+    font-weight: bold;
+  }
+  
+  .custom-table .ant-table-tbody > tr > td {
+    border: 1px solid #ddd; /* Border for table cells */
+    padding: 16px;
+  }
+  
+  .custom-table .ant-table-tbody > tr:hover {
+    background-color: #fafafa; /* Hover effect */
+  }
+  

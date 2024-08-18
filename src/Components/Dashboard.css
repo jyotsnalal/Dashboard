@@ -1,0 +1,39 @@
+/* Dashboard.css */
+
+.container {
+    padding: 1.5rem;
+    background-color: #f7f7f7;
+    min-height: 100vh;
+  }
+  
+  .heading {
+    font-size: 1.875rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .filter-select {
+    padding: 0.5rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.375rem;
+    background-color: #f7f7f7;
+    margin: 0.3125rem;
+  }
+  
+  .button-group {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .content {
+    margin-top: 1rem;
+  }
+  
